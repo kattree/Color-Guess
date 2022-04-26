@@ -5,7 +5,7 @@
 
 int main() {
   srand(time(0));
-  printf("Ah I see your back. Unless you're new\n...I suppose you can stay.\nAnyways the only thing I seem to like doing is guessing, except this time YOU'RE the one guessing!! It's going to be colors. I hope you've been an art student at some point because you're going to need to know some color theory ;)\n\n Okay okay okay fine. The colors to pick from are: red, orange, yellow, green, purple, blue, black, white, grey(bri'ish)((sorry I'm part bri'ish)) You have 3 guesses. Good luck!! Your first clue is....");
+  printf("Ah I see you're back. Unless you're new\n...I suppose you can stay.\nAnyways the only thing I seem to like doing is guessing, except this time YOU'RE the one guessing!! It's going to be colors. I hope you've been an art student at some point because you're going to need to know some color theory ;)\n\n Okay okay okay fine. The colors to pick from are: red, orange, yellow, green, purple, blue, black, white, grey(bri'ish)((sorry I'm part bri'ish)) You have 3 guesses. Good luck!! Your first clue is....");
 
    const char* colors[] = {"red", "orange", "yellow", "green", "purple", "blue", "black", "white", "grey"};
 
